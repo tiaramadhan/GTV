@@ -3,4 +3,4 @@
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_hls/GlobalTV-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+https://live.rctiplus.id/rctiplus/gtv_manifest.m3u8?vhost=__defaultVhost__
